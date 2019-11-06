@@ -1,0 +1,11 @@
+package cn.e3mall.publish;
+
+import org.junit.Test;
+
+public class testPublish {
+	@Test
+	public void bublishService(){
+		
+	}
+
+}
